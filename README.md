@@ -6,7 +6,8 @@ I will try to implement practices example suggested during the courses of [#Java
 
 **Example Practices :**
 
-- Make a JavaScript Drum Kit in Vanilla JS!
+1. Make a JavaScript Drum Kit in Vanilla JS! ( _1_drumKit_ )
+    - _note :_ sounds are not proper for example 
 
 
 
