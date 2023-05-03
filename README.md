@@ -8,6 +8,7 @@ I will try to implement practices example suggested during the courses of [#Java
 
 1. Make a JavaScript Drum Kit in Vanilla JS! ( _1_drumKit_ )
     - _note :_ sounds are not proper for example 
+2. We build a CSS + JS Clock in Vanilla JS! ( _2_clock_ )
 
 
 
